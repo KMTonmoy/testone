@@ -1,0 +1,12 @@
+.gri{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-left: 50px;
+    gap: 50px;
+}
+.gri img{
+    border: 5px solid salmon;
+    height: 400px;
+    width: 400px;
+    border-radius: 20px;
+}
